@@ -21,5 +21,13 @@
     "answer_e_correct": "false",
     "answer_f_correct": "false"
   },
-  "user_answers": []
+  "user_answers": [
+    {
+      "first_name": "Brad",
+      "username": "pythonbrad",
+      "options_ids": [
+        0
+      ]
+    }
+  ]
 }

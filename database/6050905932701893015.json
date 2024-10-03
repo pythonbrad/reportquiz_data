@@ -1,0 +1,25 @@
+{
+  "message_id": 262,
+  "date": 1727937406,
+  "poll_id": "6050905932701893015",
+  "question": "What is the Ansible setup module used for?",
+  "answers": {
+    "answer_a": "Gathers facts about remote hosts",
+    "answer_b": "Setup Ansible on remote hosts",
+    "answer_c": "Setup ansible on a master host",
+    "answer_d": "Setup your SSH keys",
+    "answer_e": null,
+    "answer_f": null
+  },
+  "tags": "DevOps",
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  },
+  "user_answers": []
+}
