@@ -1,0 +1,25 @@
+{
+  "message_id": 265,
+  "date": 1727937436,
+  "poll_id": "6050905932701893016",
+  "question": "Which of the following command can give documentation of a command?",
+  "answers": {
+    "answer_a": "man",
+    "answer_b": "info",
+    "answer_c": "doc",
+    "answer_d": "show",
+    "answer_e": "help",
+    "answer_f": null
+  },
+  "tags": "BASH Linux",
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  },
+  "user_answers": []
+}
