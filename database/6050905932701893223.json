@@ -1,0 +1,24 @@
+{
+  "message_id": 306,
+  "date": 1727948668,
+  "poll_id": "6050905932701893223",
+  "question": "Which of the following is not a component of a Master Node?",
+  "answers": {
+    "answer_a": "Scheduler",
+    "answer_b": "Controller Manager",
+    "answer_c": "API server",
+    "answer_d": "kubectl",
+    "answer_e": null,
+    "answer_f": null
+  },
+  "tags": "Kubernetes",
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "true",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  }
+}
