@@ -1,0 +1,25 @@
+{
+  "message_id": 272,
+  "date": 1727937558,
+  "poll_id": "6050905932701893019",
+  "question": "Which argument do you need to specify in order to run a specific Ansible module?",
+  "answers": {
+    "answer_a": "--modules",
+    "answer_b": "-m",
+    "answer_c": "-ml",
+    "answer_d": "--ansible-module",
+    "answer_e": null,
+    "answer_f": null
+  },
+  "tags": "DevOps",
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "true",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  },
+  "user_answers": []
+}
