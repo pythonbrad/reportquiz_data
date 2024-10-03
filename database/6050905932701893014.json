@@ -1,0 +1,25 @@
+{
+  "message_id": 260,
+  "date": 1727937368,
+  "poll_id": "6050905932701893014",
+  "question": "Containers running on a single machine all share the same operating system kernel.",
+  "answers": {
+    "answer_a": "False",
+    "answer_b": "True",
+    "answer_c": null,
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+  },
+  "tags": "Docker",
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "true",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  },
+  "user_answers": []
+}
