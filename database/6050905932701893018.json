@@ -1,0 +1,25 @@
+{
+  "message_id": 269,
+  "date": 1727937530,
+  "poll_id": "6050905932701893018",
+  "question": "How to create a volume which docker container will use to store data.",
+  "answers": {
+    "answer_a": "$ docker --volume create",
+    "answer_b": "$ docker volume create",
+    "answer_c": "$ docker create volume",
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+  },
+  "tags": "Docker",
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "true",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  },
+  "user_answers": []
+}
