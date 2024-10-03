@@ -1,0 +1,25 @@
+{
+  "message_id": 257,
+  "date": 1727936568,
+  "poll_id": "6050905932701893008",
+  "question": "___________________ is a special namespace that is used for special purposes like bootstrapping a cluster.",
+  "answers": {
+    "answer_a": "Kube-public",
+    "answer_b": "Kube-private",
+    "answer_c": "Kube-system",
+    "answer_d": "Default",
+    "answer_e": null,
+    "answer_f": null
+  },
+  "tags": "Kubernetes",
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  },
+  "user_answers": []
+}
