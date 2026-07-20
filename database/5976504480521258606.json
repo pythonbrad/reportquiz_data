@@ -1,0 +1,20 @@
+{
+  "message_id": 122,
+  "date": 1784549555,
+  "poll_id": "5976504480521258606",
+  "question": "A company wants to centrally manage user identities and control access to Azure resources, Microsoft 365, and third-party SaaS applications. Which service should they use?",
+  "answers": [
+    "Microsoft Entra ID (Azure AD)",
+    "Azure Key Vault",
+    "Azure Policy",
+    "Azure Security Center"
+  ],
+  "tags": "Azure",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
