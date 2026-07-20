@@ -1,0 +1,20 @@
+{
+  "message_id": 127,
+  "date": 1784580942,
+  "poll_id": "5976504480521258905",
+  "question": "A pod can reach a service in its own namespace by short name, but not a service in another namespace by short name. What should it use?",
+  "answers": [
+    "Only the pod UID",
+    "Only the service cluster IP from a hardcoded config",
+    "A DNS name that includes the target namespace",
+    "The node name as the hostname"
+  ],
+  "tags": "Kubernetes",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
