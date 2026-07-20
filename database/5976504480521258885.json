@@ -1,0 +1,20 @@
+{
+  "message_id": 125,
+  "date": 1784578545,
+  "poll_id": "5976504480521258885",
+  "question": "A permission boundary allows only read actions. An identity policy attached to the same role allows deleting a resource. What can the role do?",
+  "answers": [
+    "It cannot delete the resource because the boundary caps permissions",
+    "It can delete the resource because identity policies override boundaries",
+    "It can delete only if MFA is disabled",
+    "It can delete after the role session refreshes twice"
+  ],
+  "tags": "Cloud Security",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
