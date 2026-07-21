@@ -1,0 +1,20 @@
+{
+  "message_id": 132,
+  "date": 1784633941,
+  "poll_id": "5978783965694133044",
+  "question": "Your team uses Azure DevOps and needs to automatically build, test, and deploy code every time a commit is pushed to the main branch. Which Azure DevOps component handles this?",
+  "answers": [
+    "Azure Repos",
+    "Azure Boards",
+    "Azure Pipelines",
+    "Azure Artifacts"
+  ],
+  "tags": "Azure",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
