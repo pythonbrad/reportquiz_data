@@ -1,0 +1,20 @@
+{
+  "message_id": 135,
+  "date": 1784677928,
+  "poll_id": "5981035765507818565",
+  "question": "A developer can list objects in a bucket from Account A but cannot read a specific object in Account B. Which missing piece is most likely?",
+  "answers": [
+    "A longer session duration on the developer role",
+    "A different console region selection",
+    "A stronger password policy in Account A",
+    "A resource policy or ownership setting that permits the cross-account read"
+  ],
+  "tags": "Cloud Security",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
