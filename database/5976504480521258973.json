@@ -1,0 +1,20 @@
+{
+  "message_id": 130,
+  "date": 1784596457,
+  "poll_id": "5976504480521258973",
+  "question": "An organization-level service control policy denies creating public storage buckets. A project role has an allow for that action. What happens?",
+  "answers": [
+    "The project role can create the bucket if it owns the resource",
+    "The allow wins because it is closer to the principal",
+    "The action succeeds only in the default region",
+    "The deny blocks the action despite the role policy"
+  ],
+  "tags": "Cloud Security",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
