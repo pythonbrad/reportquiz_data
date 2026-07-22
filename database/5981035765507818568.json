@@ -1,0 +1,20 @@
+{
+  "message_id": 137,
+  "date": 1784682758,
+  "poll_id": "5981035765507818568",
+  "question": "A role trust policy allows Account B to assume it, but users in Account B still receive AccessDenied. What should you check next?",
+  "answers": [
+    "Whether the target role has an inline policy for every service",
+    "Whether the role name includes the source account alias",
+    "Whether the Account B principal is allowed to call AssumeRole",
+    "Whether the target role has a longer maximum session duration"
+  ],
+  "tags": "Cloud Security",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
