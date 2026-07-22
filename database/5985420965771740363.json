@@ -1,0 +1,20 @@
+{
+  "message_id": 140,
+  "date": 1784753395,
+  "poll_id": "5985420965771740363",
+  "question": "A resource policy trusts a whole external account, but the external account has hundreds of roles. What additional control can reduce blast radius?",
+  "answers": [
+    "Rename the resource so untrusted roles cannot guess it",
+    "Increase the target resource quota",
+    "Add conditions that match the intended role or session attributes",
+    "Move the policy to a comment field for auditing"
+  ],
+  "tags": "Cloud Security",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
