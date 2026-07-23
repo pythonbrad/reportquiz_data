@@ -1,0 +1,20 @@
+{
+  "message_id": 147,
+  "date": 1784841510,
+  "poll_id": "5987672765585425361",
+  "question": "A recursive binary search uses no arrays besides the input. What is its call stack space in the usual implementation?",
+  "answers": [
+    "O(1) because the input is sorted",
+    "O(n) because the array has n elements",
+    "O(log n) because the recursion depth halves the range each time",
+    "O(n log n) because comparisons are nested"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
