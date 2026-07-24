@@ -1,0 +1,20 @@
+{
+  "message_id": 149,
+  "date": 1784855755,
+  "poll_id": "5987672765585425365",
+  "question": "A trie is chosen for autocomplete. What is the main advantage over scanning every word for a prefix?",
+  "answers": [
+    "It stores only numeric keys",
+    "It makes all words the same length",
+    "It prevents duplicate letters in words",
+    "It can find the prefix node in time proportional to the prefix length"
+  ],
+  "tags": "Data Structures",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
