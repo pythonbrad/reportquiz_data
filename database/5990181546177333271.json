@@ -1,0 +1,20 @@
+{
+  "message_id": 153,
+  "date": 1784926320,
+  "poll_id": "5990181546177333271",
+  "question": "A List is modified directly while iterating with an enhanced for loop. What can happen?",
+  "answers": [
+    "The loop always sees a snapshot copy",
+    "The modification is queued until after iteration",
+    "A ConcurrentModificationException may be thrown",
+    "The JVM automatically restarts the loop"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
