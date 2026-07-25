@@ -1,0 +1,20 @@
+{
+  "message_id": 159,
+  "date": 1785011812,
+  "poll_id": "5992283975618397001",
+  "question": "A program opens a file with `newline=''` before using the `csv` module. Why is that recommended?",
+  "answers": [
+    "It strips all blank rows from the file",
+    "It forces UTF-16 encoding",
+    "It prevents commas inside quoted fields",
+    "It lets the csv module handle newlines without extra text translation"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
