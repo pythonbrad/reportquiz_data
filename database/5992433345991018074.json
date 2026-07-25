@@ -1,0 +1,20 @@
+{
+  "message_id": 157,
+  "date": 1784977065,
+  "poll_id": "5992433345991018074",
+  "question": "Why can `List<String>` not be assigned to `List<Object>`?",
+  "answers": [
+    "String is not a subtype of Object",
+    "Lists cannot store objects",
+    "The compiler cannot infer method return types",
+    "Generic collection types are invariant"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
