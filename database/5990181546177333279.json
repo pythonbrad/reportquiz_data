@@ -1,0 +1,20 @@
+{
+  "message_id": 155,
+  "date": 1784942221,
+  "poll_id": "5990181546177333279",
+  "question": "What is the effect of the `static` keyword on a method in Java? ```java class Counter { static int count = 0; static void increment() { count++; } } ```",
+  "answers": [
+    "The method can only be called from constructors",
+    "The method can access both instance and static fields directly",
+    "The method runs in a separate thread automatically",
+    "The method belongs to the class and can be called without an instance"
+  ],
+  "tags": "Programming",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
