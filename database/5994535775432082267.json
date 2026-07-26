@@ -1,0 +1,20 @@
+{
+  "message_id": 163,
+  "date": 1785064228,
+  "poll_id": "5994535775432082267",
+  "question": "A stream processing function catches errors inside a for await loop but never destroys the stream. What risk remains?",
+  "answers": [
+    "The stream may continue holding resources or producing data",
+    "The error becomes a TypeScript type",
+    "Backpressure is permanently disabled for the process",
+    "The next loop iteration becomes synchronous"
+  ],
+  "tags": "Node.js",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
