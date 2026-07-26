@@ -1,0 +1,20 @@
+{
+  "message_id": 161,
+  "date": 1785028784,
+  "poll_id": "5994535775432082215",
+  "question": "A library wants callers to pass any object with `send(bytes) -> int`, not a specific socket class. Which public type is most flexible?",
+  "answers": [
+    "A concrete socket subclass",
+    "A Protocol with the required send method",
+    "A TypedDict with a send key",
+    "A bare object annotation"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
