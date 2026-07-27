@@ -1,0 +1,20 @@
+{
+  "message_id": 169,
+  "date": 1785152041,
+  "poll_id": "5999282405783896880",
+  "question": "A binary search tree is traversed in-order. What property does the output have if the BST invariant is valid?",
+  "answers": [
+    "It lists keys in sorted order",
+    "It always lists leaves before parents",
+    "It returns only the tree height",
+    "It lists nodes by insertion time"
+  ],
+  "tags": "Data Structures",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
