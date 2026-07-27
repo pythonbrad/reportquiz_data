@@ -1,0 +1,20 @@
+{
+  "message_id": 166,
+  "date": 1785115438,
+  "poll_id": "5996787575245768014",
+  "question": "Why is using a mutable object as a HashMap key risky?",
+  "answers": [
+    "Changing key fields can break future lookup in the map",
+    "HashMap immediately copies every key deeply",
+    "Mutable keys are forbidden by the Java compiler",
+    "HashMap switches to identity comparison for mutable keys"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
