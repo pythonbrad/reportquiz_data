@@ -1,7 +1,7 @@
 {
-  "message_id": 144,
-  "date": 1784839595,
-  "poll_id": "5987672765585425357",
+  "message_id": 137,
+  "date": 1784682758,
+  "poll_id": "5981035765507818568",
   "question": "A role trust policy allows Account B to assume it, but users in Account B still receive AccessDenied. What should you check next?",
   "answers": [
     "Whether the target role has an inline policy for every service",
@@ -16,5 +16,6 @@
     false,
     true,
     false
-  ]
+  ],
+  "user_answers": []
 }
