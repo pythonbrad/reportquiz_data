@@ -1,0 +1,20 @@
+{
+  "message_id": 174,
+  "date": 1785155363,
+  "poll_id": "5999282405783896883",
+  "question": "What is a common mistake when adding a discriminator to error variants?",
+  "answers": [
+    "Forgetting to include and constrain the discriminator property in variants",
+    "Using a string field anywhere in the schema",
+    "Defining examples for error responses",
+    "Using HTTP status codes with schemas"
+  ],
+  "tags": "REST API",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
