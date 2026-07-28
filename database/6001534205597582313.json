@@ -1,0 +1,20 @@
+{
+  "message_id": 176,
+  "date": 1785203156,
+  "poll_id": "6001534205597582313",
+  "question": "A script writes data and immediately launches another process to read it. Why might `flush()` matter?",
+  "answers": [
+    "It changes text mode to binary mode",
+    "It forces buffered Python data toward the file before close",
+    "It renames the file atomically",
+    "It catches PermissionError"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
