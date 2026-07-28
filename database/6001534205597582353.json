@@ -1,0 +1,20 @@
+{
+  "message_id": 178,
+  "date": 1785246139,
+  "poll_id": "6001534205597582353",
+  "question": "A TreeSet comparator compares only lastName, so two people with the same last name compare as 0. What surprising result can occur?",
+  "answers": [
+    "The set stores both people in random order",
+    "The set converts both people to strings",
+    "One person may be dropped as a duplicate",
+    "The compiler requires comparator consistency tests"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
