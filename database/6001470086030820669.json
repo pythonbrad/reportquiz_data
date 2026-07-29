@@ -1,0 +1,20 @@
+{
+  "message_id": 180,
+  "date": 1785289657,
+  "poll_id": "6001470086030820669",
+  "question": "Which type parameter order is usually easier for inference in a helper getByKey<T, K extends keyof T>?",
+  "answers": [
+    "K before T, because constraints are ignored",
+    "Only one-letter generic names can be inferred",
+    "The order never matters for dependent constraints",
+    "T before K, because K depends on keys of T"
+  ],
+  "tags": "TypeScript",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
