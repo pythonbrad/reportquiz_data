@@ -1,0 +1,20 @@
+{
+  "message_id": 182,
+  "date": 1785332879,
+  "poll_id": "6003721885844505803",
+  "question": "A broad except block logs an error and continues a data migration after a failed write. What is the deeper risk?",
+  "answers": [
+    "The log file will always be too small",
+    "The migration becomes faster because exceptions are ignored",
+    "The process may hide partial failure and leave inconsistent state",
+    "Python will undo all previous writes automatically"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
