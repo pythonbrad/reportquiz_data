@@ -1,0 +1,20 @@
+{
+  "message_id": 186,
+  "date": 1785418179,
+  "poll_id": "6008047849919480768",
+  "question": "Why is len(ch) usually a poor way to decide whether a later receive will block?",
+  "answers": [
+    "len cannot be called on channels",
+    "It is a race-prone snapshot, not a reservation of a value",
+    "It always returns the channel capacity",
+    "It closes the channel when the length is zero"
+  ],
+  "tags": "Go",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
