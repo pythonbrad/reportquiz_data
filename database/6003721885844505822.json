@@ -1,0 +1,20 @@
+{
+  "message_id": 184,
+  "date": 1785375648,
+  "poll_id": "6003721885844505822",
+  "question": "A two-pointer loop moves left or right inward on each iteration. Why is it often O(n), not O(n squared)?",
+  "answers": [
+    "Because there are two pointers instead of two loops",
+    "Because the total number of pointer moves is linear",
+    "Because pointer arithmetic is always free",
+    "Because all two-pointer algorithms sort the input first"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
