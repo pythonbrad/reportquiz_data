@@ -1,0 +1,20 @@
+{
+  "message_id": 188,
+  "date": 1785463065,
+  "poll_id": "6008047849919480775",
+  "question": "An algorithm processes every edge in an adjacency list graph. Which expression best describes the time complexity?",
+  "answers": [
+    "O(V squared) for every graph",
+    "O(E squared) because edges are nested",
+    "O(V + E)",
+    "O(1) because each list has a pointer"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
