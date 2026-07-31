@@ -1,0 +1,20 @@
+{
+  "message_id": 190,
+  "date": 1785505383,
+  "poll_id": "6010299649733165845",
+  "question": "A web app needs to run many short background tasks without creating a new Thread for every request. Which Java API is the best starting point?",
+  "answers": [
+    "Thread.sleep",
+    "ExecutorService",
+    "System.gc",
+    "StringBuilder"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
