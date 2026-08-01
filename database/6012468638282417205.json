@@ -1,0 +1,20 @@
+{
+  "message_id": 194,
+  "date": 1785589110,
+  "poll_id": "6012468638282417205",
+  "question": "A quickselect implementation is used to find the kth smallest item. What average-case advantage does it have over sorting the whole array?",
+  "answers": [
+    "It guarantees constant time for every input",
+    "It returns all elements in sorted order",
+    "It uses no comparisons",
+    "It can find one rank in average linear time"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
