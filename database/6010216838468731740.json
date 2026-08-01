@@ -1,0 +1,20 @@
+{
+  "message_id": 192,
+  "date": 1785549546,
+  "poll_id": "6010216838468731740",
+  "question": "A Readable stream is in paused mode. Which call asks for data explicitly?",
+  "answers": [
+    "`stream.write()`",
+    "`stream.end()`",
+    "`stream.read()`",
+    "`stream.listen()`"
+  ],
+  "tags": "Node.js",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
