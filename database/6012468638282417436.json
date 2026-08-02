@@ -1,0 +1,20 @@
+{
+  "message_id": 196,
+  "date": 1785635712,
+  "poll_id": "6012468638282417436",
+  "question": "Why is mid = lo + (hi - lo) / 2 often preferred over mid = (lo + hi) / 2 in fixed-width integer languages?",
+  "answers": [
+    "It makes binary search stable",
+    "It changes the algorithm to linear search",
+    "It guarantees the target exists",
+    "It avoids overflow when lo and hi are large"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
