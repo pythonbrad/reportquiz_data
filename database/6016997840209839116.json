@@ -1,0 +1,20 @@
+{
+  "message_id": 202,
+  "date": 1785766692,
+  "poll_id": "6016997840209839116",
+  "question": "A custom executor has `corePoolSize=0`, `maximumPoolSize=10`, and an unbounded queue. What surprising outcome is likely?",
+  "answers": [
+    "It always starts 10 threads immediately",
+    "It may queue work instead of growing toward maximum as expected",
+    "It rejects every task because core size is zero",
+    "It can execute only scheduled tasks"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
