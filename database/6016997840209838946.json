@@ -1,0 +1,20 @@
+{
+  "message_id": 200,
+  "date": 1785722265,
+  "poll_id": "6016997840209838946",
+  "question": "A rotated sorted array has no duplicates. Why can binary search still work?",
+  "answers": [
+    "Rotation preserves every index",
+    "The pivot is always at the middle",
+    "One side of the midpoint remains sorted enough to discard the other side",
+    "Duplicates are required for binary search"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
