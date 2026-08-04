@@ -1,0 +1,20 @@
+{
+  "message_id": 206,
+  "date": 1785851378,
+  "poll_id": "6021324345450693708",
+  "question": "A warning is shown only once, even though the code path runs many times. What explains this?",
+  "answers": [
+    "Warnings are limited to one per process by the language",
+    "Warnings can be suppressed after the first matching location by the active filter",
+    "The logger deletes repeated warning messages",
+    "Only exceptions can repeat"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
