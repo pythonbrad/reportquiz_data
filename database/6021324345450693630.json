@@ -1,0 +1,20 @@
+{
+  "message_id": 204,
+  "date": 1785807824,
+  "poll_id": "6021324345450693630",
+  "question": "A comparator says a < b and b < c, but also c < a. Why can sorting fail unpredictably?",
+  "answers": [
+    "Sorting requires all values to be numbers",
+    "The array must contain exactly three values",
+    "The comparator will automatically become stable",
+    "The comparator violates transitivity, so order assumptions break"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
