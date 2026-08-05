@@ -1,0 +1,20 @@
+{
+  "message_id": 208,
+  "date": 1785894372,
+  "poll_id": "6023576145264378706",
+  "question": "A factory function returns `increment` and `get` functions that share a local `count`. What makes each factory call independent?",
+  "answers": [
+    "Function names are copied into localStorage",
+    "Each call creates a new lexical environment for `count`",
+    "JavaScript clones the source code for every function call",
+    "Closures are shared globally by function name"
+  ],
+  "tags": "JavaScript",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
