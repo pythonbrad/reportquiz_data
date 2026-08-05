@@ -1,0 +1,20 @@
+{
+  "message_id": 210,
+  "date": 1785937510,
+  "poll_id": "6023956928474907831",
+  "question": "A function catches `OSError` around file creation. Which exception family does this commonly cover?",
+  "answers": [
+    "Only SyntaxError from invalid Python code",
+    "Only JSONDecodeError",
+    "Only StopIteration from loops",
+    "File-system errors such as FileNotFoundError and PermissionError"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
