@@ -1,0 +1,20 @@
+{
+  "message_id": 214,
+  "date": 1786023814,
+  "poll_id": "6026208728288593269",
+  "question": "What is a practical difference between Path.rename(target) and os.replace style replacement on many platforms?",
+  "answers": [
+    "rename always copies file contents through Python",
+    "replace only changes a string and never touches the filesystem",
+    "rename converts text to bytes first",
+    "replace is intended to overwrite an existing target atomically when possible"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
