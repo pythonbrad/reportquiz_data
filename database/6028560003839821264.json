@@ -1,0 +1,20 @@
+{
+  "message_id": 216,
+  "date": 1786068610,
+  "poll_id": "6028560003839821264",
+  "question": "A team creates `Executors.newCachedThreadPool()` for slow blocking calls with no backpressure. What can go wrong?",
+  "answers": [
+    "It accepts only one task total",
+    "It makes all blocking calls nonblocking",
+    "It preserves strict submission order forever",
+    "It can create too many threads under load"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
