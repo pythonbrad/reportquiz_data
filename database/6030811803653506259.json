@@ -1,0 +1,20 @@
+{
+  "message_id": 218,
+  "date": 1786106525,
+  "poll_id": "6030811803653506259",
+  "question": "A file is read with `fs.createReadStream` and piped to an HTTP response. Why is this often better than `readFile` for large files?",
+  "answers": [
+    "Streams make the file smaller on disk",
+    "`readFile` cannot read binary files",
+    "The file can be processed incrementally with less peak memory",
+    "HTTP responses accept only stream objects"
+  ],
+  "tags": "Node.js",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
