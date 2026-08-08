@@ -1,0 +1,20 @@
+{
+  "message_id": 220,
+  "date": 1786150687,
+  "poll_id": "6030811803653506356",
+  "question": "The edit distance (Levenshtein distance) between 'kitten' and 'sitting' is computed using DP. What operations does it consider, and what is the result?",
+  "answers": [
+    "Insert and delete only; distance is 4",
+    "Substitute only; distance is 5",
+    "Insert, delete, substitute, and transpose; distance is 2",
+    "Insert, delete, and substitute; distance is 3"
+  ],
+  "tags": "Programming",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
