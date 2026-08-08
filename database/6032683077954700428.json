@@ -1,0 +1,20 @@
+{
+  "message_id": 222,
+  "date": 1786192129,
+  "poll_id": "6032683077954700428",
+  "question": "When debugging asyncio.gather(a(), b()), one awaitable raises an exception. What should you remember about the default behavior?",
+  "answers": [
+    "gather always converts exceptions into strings",
+    "gather propagates an exception unless return_exceptions is requested",
+    "gather ignores failed awaitables and returns only successful results",
+    "gather reruns the failed awaitable once"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
