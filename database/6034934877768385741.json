@@ -1,0 +1,20 @@
+{
+  "message_id": 224,
+  "date": 1786237265,
+  "poll_id": "6034934877768385741",
+  "question": "A search for the first index where nums[i] >= target is usually called what?",
+  "answers": [
+    "A heap pop",
+    "A stable partition only",
+    "A lower bound",
+    "A postorder traversal"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
