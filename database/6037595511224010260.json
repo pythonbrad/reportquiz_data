@@ -1,0 +1,20 @@
+{
+  "message_id": 228,
+  "date": 1786323796,
+  "poll_id": "6037595511224010260",
+  "question": "A running total uses SUM(amount) OVER (ORDER BY created_at). Several rows share created_at. What can surprise you with the default RANGE frame in many databases?",
+  "answers": [
+    "Peer rows can be included together in the frame",
+    "SUM ignores all tied rows",
+    "ORDER BY is forbidden inside window functions",
+    "The frame automatically becomes partitioned by day"
+  ],
+  "tags": "SQL Queries",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
