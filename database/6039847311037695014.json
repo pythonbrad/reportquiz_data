@@ -1,0 +1,20 @@
+{
+  "message_id": 230,
+  "date": 1786366000,
+  "poll_id": "6039847311037695014",
+  "question": "A submit button stays enabled while async validation is pending. What is the risk?",
+  "answers": [
+    "Users may submit before validation has reached a reliable result",
+    "React will skip the submit event",
+    "The button will become a text input",
+    "Async validation always blocks JavaScript execution"
+  ],
+  "tags": "React",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
