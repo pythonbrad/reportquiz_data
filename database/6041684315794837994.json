@@ -1,0 +1,20 @@
+{
+  "message_id": 234,
+  "date": 1786452176,
+  "poll_id": "6041684315794837994",
+  "question": "You need the shortest path in an unweighted graph from one start node. Which traversal is the usual fit?",
+  "answers": [
+    "Depth-first search with no visited set",
+    "Breadth-first search",
+    "Heap sort on node labels",
+    "Postorder traversal of any spanning tree"
+  ],
+  "tags": "Data Structures",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
