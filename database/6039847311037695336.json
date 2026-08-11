@@ -1,0 +1,20 @@
+{
+  "message_id": 232,
+  "date": 1786410126,
+  "poll_id": "6039847311037695336",
+  "question": "A method signature is `<T extends Comparable<? super T>> T max(List<T> values)`. Why use `? super T`?",
+  "answers": [
+    "It requires T to be exactly Object",
+    "It lets T be compared using Comparable of T or a supertype",
+    "It disables type erasure for the method",
+    "It allows null elements to compare as smallest"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
