@@ -1,0 +1,20 @@
+{
+  "message_id": 238,
+  "date": 1786538785,
+  "poll_id": "6043936115608522647",
+  "question": "A UI maps allSettled results and reads result.value for every item. What bug can this create?",
+  "answers": [
+    "It restarts each request.",
+    "It changes the order of results by completion time.",
+    "It converts fulfilled values into reasons.",
+    "Rejected results do not have a fulfilled value to read."
+  ],
+  "tags": "JavaScript",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
