@@ -1,0 +1,20 @@
+{
+  "message_id": 240,
+  "date": 1786583462,
+  "poll_id": "6046624404358565275",
+  "question": "A service logs passwords in exception messages from validation failures. What should be changed?",
+  "answers": [
+    "Increase the log level to debug only",
+    "Put the password in the logger name instead",
+    "Redact sensitive values before logging",
+    "Log the password twice to make debugging easier"
+  ],
+  "tags": "Python",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
