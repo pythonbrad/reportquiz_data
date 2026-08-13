@@ -1,0 +1,20 @@
+{
+  "message_id": 242,
+  "date": 1786625322,
+  "poll_id": "6048876204172250095",
+  "question": "Why is List<String> not a subtype of List<Object> even though String is a subtype of Object?",
+  "answers": [
+    "A List<Object> consumer could add a non-String into the same list.",
+    "String is only a subtype of Object for arrays, not collections.",
+    "The compiler cannot compare class names containing angle brackets.",
+    "List<String> stores values outside the heap."
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
