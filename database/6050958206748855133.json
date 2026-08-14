@@ -1,0 +1,20 @@
+{
+  "message_id": 246,
+  "date": 1786711394,
+  "poll_id": "6050958206748855133",
+  "question": "A directed graph has edges with weights 0 or 1 only. Which shortest-path method can beat general Dijkstra in many implementations?",
+  "answers": [
+    "Bubble sort on the edge list",
+    "Plain DFS without distances",
+    "Matrix transposition only",
+    "0-1 BFS with a deque"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
