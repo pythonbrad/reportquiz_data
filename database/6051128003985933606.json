@@ -1,0 +1,20 @@
+{
+  "message_id": 244,
+  "date": 1786669806,
+  "poll_id": "6051128003985933606",
+  "question": "A HashMap key's fields used by `hashCode` are mutated after insertion. What is the likely symptom?",
+  "answers": [
+    "The compiler rejects every mutable key",
+    "The map automatically rehashes the key",
+    "The key is converted to a String",
+    "Lookups may fail even though the entry is present"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
