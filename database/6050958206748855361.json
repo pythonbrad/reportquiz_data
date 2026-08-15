@@ -1,0 +1,20 @@
+{
+  "message_id": 248,
+  "date": 1786754593,
+  "poll_id": "6050958206748855361",
+  "question": "A graph is bipartite if and only if it contains no odd-length cycles. Which algorithm can you use to test whether a graph is bipartite?",
+  "answers": [
+    "Topological sort — if it succeeds, the graph is bipartite",
+    "Find all cycles and check their lengths",
+    "Run Kruskal's and check if the MST has even weight",
+    "BFS with 2-coloring — assign alternating colors and check for conflicts"
+  ],
+  "tags": "Programming",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
