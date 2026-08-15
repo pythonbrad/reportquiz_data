@@ -1,0 +1,20 @@
+{
+  "message_id": 250,
+  "date": 1786796362,
+  "poll_id": "5764979630410828057",
+  "question": "Insertion sort is often preferred for small arrays (e.g., n < 20) even over asymptotically faster algorithms. What is the primary reason?",
+  "answers": [
+    "Insertion sort is always O(n log n) for small arrays",
+    "It uses less memory than any other sorting algorithm",
+    "It has very low overhead and constant factors, making it faster in practice for small inputs",
+    "It is the only stable sort available"
+  ],
+  "tags": "Programming",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    true,
+    false
+  ]
+}
