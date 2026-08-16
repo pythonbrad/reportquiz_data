@@ -1,0 +1,20 @@
+{
+  "message_id": 252,
+  "date": 1786841098,
+  "poll_id": "5767299780334061356",
+  "question": "A reviewer rejects this method: void addDefault(List<? extends Number> list) { list.add(0); }. Why does it fail?",
+  "answers": [
+    "The list might be a List<Double>, so adding an Integer is unsafe.",
+    "Primitive int values cannot be boxed inside wildcard lists.",
+    "Wildcard lists cannot be passed to methods at all.",
+    "Number is abstract, so no subtype can be inserted."
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
