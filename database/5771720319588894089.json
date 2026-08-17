@@ -1,0 +1,20 @@
+{
+  "message_id": 258,
+  "date": 1786969477,
+  "poll_id": "5771720319588894089",
+  "question": "During a DFS traversal of a directed graph, you encounter an edge (u, v) where v is currently on the recursion stack (in the GRAY/visiting state). What does this indicate?",
+  "answers": [
+    "The graph has a topological ordering that includes this edge",
+    "The graph contains a cycle involving this edge",
+    "Node v is a tree edge in the DFS forest",
+    "The graph is bipartite"
+  ],
+  "tags": "Programming",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
