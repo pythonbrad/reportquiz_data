@@ -1,0 +1,20 @@
+{
+  "message_id": 256,
+  "date": 1786927402,
+  "poll_id": "5771803379961431268",
+  "question": "An inner function declares let count = 0 inside its own body. It is called three times and always logs 1. Why?",
+  "answers": [
+    "The variable is recreated on every call instead of being stored in the outer scope",
+    "let variables cannot hold numbers above 1",
+    "Console logging resets the variable",
+    "JavaScript prevents closures from mutating numbers"
+  ],
+  "tags": "JavaScript",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    true,
+    false,
+    false,
+    false
+  ]
+}
