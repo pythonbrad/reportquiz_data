@@ -1,0 +1,20 @@
+{
+  "message_id": 260,
+  "date": 1787013740,
+  "poll_id": "5771720319588894182",
+  "question": "This code hangs: a task running in a single-thread executor submits another task to the same executor and waits on its Future.get(). Why?",
+  "answers": [
+    "Future.get can only be called from the main thread",
+    "The only worker is waiting for work that needs that same worker",
+    "Single-thread executors reject nested submissions by design",
+    "Callable tasks cannot submit Runnable tasks"
+  ],
+  "tags": "Java",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
