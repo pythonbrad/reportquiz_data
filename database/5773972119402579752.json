@@ -1,0 +1,20 @@
+{
+  "message_id": 262,
+  "date": 1787055978,
+  "poll_id": "5773972119402579752",
+  "question": "A quicksort partition puts values less than the pivot left and greater than the pivot right. What issue appears with many equal values if handled poorly?",
+  "answers": [
+    "The array becomes impossible to compare",
+    "The pivot must be converted to a string",
+    "The algorithm becomes a graph traversal",
+    "Partitions can become unbalanced or repeat equal elements"
+  ],
+  "tags": "Algorithms",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    false,
+    false,
+    true
+  ]
+}
