@@ -17,5 +17,13 @@
     false,
     false
   ],
-  "user_answers": []
+  "user_answers": [
+    {
+      "first_name": "Brad",
+      "username": "pythonbrad",
+      "options_ids": [
+        0
+      ]
+    }
+  ]
 }

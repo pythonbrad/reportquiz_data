@@ -1,0 +1,20 @@
+{
+  "message_id": 264,
+  "date": 1787100164,
+  "poll_id": "5776342327169647532",
+  "question": "Consider the following Java code: ```java interface Flyable { void fly(); } abstract class Bird { abstract void sing(); } class Sparrow extends Bird implements Flyable { void sing() { System.out.println(\"Tweet\"); } public void fly() { System.out.println(\"Flap\"); } } ``` Which statement about this code is correct?",
+  "answers": [
+    "It won't compile because a class cannot both extend a class and implement an interface",
+    "It compiles because a class can extend one class and implement multiple interfaces",
+    "It won't compile because fly() must be declared abstract in Flyable",
+    "It won't compile because sing() needs the public modifier in Sparrow"
+  ],
+  "tags": "Programming",
+  "multiple_correct_answers": true,
+  "correct_answers": [
+    false,
+    true,
+    false,
+    false
+  ]
+}
